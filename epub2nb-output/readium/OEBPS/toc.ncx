@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="a280d15f-5a94-4ee4-87d8-6cad295549a2" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Agogh</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>METAFORY</text>
+      </navLabel>
+      <content src="Text/agogh_006.html"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Metafora první</text>
+        </navLabel>
+        <content src="Text/agogh_007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Metafora druhá</text>
+        </navLabel>
+        <content src="Text/agogh_008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Metafora třetí</text>
+        </navLabel>
+        <content src="Text/agogh_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Metafora čtvrtá</text>
+        </navLabel>
+        <content src="Text/agogh_010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Metafora pátá</text>
+        </navLabel>
+        <content src="Text/agogh_011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Metafora šestá</text>
+        </navLabel>
+        <content src="Text/agogh_012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Metafora sedmá</text>
+        </navLabel>
+        <content src="Text/agogh_013.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>NEKROLOGY</text>
+      </navLabel>
+      <content src="Text/agogh_014.html"/>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Noční květiny</text>
+        </navLabel>
+        <content src="Text/agogh_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Variace pro hornu a trubku</text>
+        </navLabel>
+        <content src="Text/agogh_016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Ptáci</text>
+        </navLabel>
+        <content src="Text/agogh_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Nedokončená</text>
+        </navLabel>
+        <content src="Text/agogh_018.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>FANTÓMY</text>
+      </navLabel>
+      <content src="Text/agogh_019.html"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Plátky</text>
+        </navLabel>
+        <content src="Text/agogh_020.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Čistá práce</text>
+        </navLabel>
+        <content src="Text/agogh_021.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Obřad</text>
+        </navLabel>
+        <content src="Text/agogh_022.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Dusno</text>
+        </navLabel>
+        <content src="Text/agogh_023.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Scéna</text>
+        </navLabel>
+        <content src="Text/agogh_024.html"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Uhlem</text>
+        </navLabel>
+        <content src="Text/agogh_025.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>MEANDRY</text>
+      </navLabel>
+      <content src="Text/agogh_026.html"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Pleonasmy</text>
+        </navLabel>
+        <content src="Text/agogh_027.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Instrumentace</text>
+        </navLabel>
+        <content src="Text/agogh_028.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Návody</text>
+        </navLabel>
+        <content src="Text/agogh_029.html"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Zázraky</text>
+        </navLabel>
+        <content src="Text/agogh_030.html"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Ostych</text>
+        </navLabel>
+        <content src="Text/agogh_031.html"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Čas vína</text>
+        </navLabel>
+        <content src="Text/agogh_032.html"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Chutnání</text>
+        </navLabel>
+        <content src="Text/agogh_033.html"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Volným pádem</text>
+        </navLabel>
+        <content src="Text/agogh_034.html"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Křehké věci</text>
+        </navLabel>
+        <content src="Text/agogh_035.html"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Nahota</text>
+        </navLabel>
+        <content src="Text/agogh_036.html"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Fantastický déšť</text>
+        </navLabel>
+        <content src="Text/agogh_037.html"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Jen tak sobě pro radost</text>
+        </navLabel>
+        <content src="Text/agogh_038.html"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Divoké víno</text>
+        </navLabel>
+        <content src="Text/agogh_039.html"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Samovznícení</text>
+        </navLabel>
+        <content src="Text/agogh_040.html"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Ženy na podzim</text>
+        </navLabel>
+        <content src="Text/agogh_041.html"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Co říká malíř</text>
+        </navLabel>
+        <content src="Text/agogh_042.html"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Zděšený láskou</text>
+        </navLabel>
+        <content src="Text/agogh_043.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/agogh_044.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
