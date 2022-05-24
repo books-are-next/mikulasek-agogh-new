@@ -1,11 +1,10 @@
 ---
-contentType: prose
+title: Noční květiny
+contentType: poetry
 ---
 
-## Noční květiny
-
-(Památce přítele Jaroslava Beneše,  
-zvaného Mauglí)
+**_(Památce přítele Jaroslava Beneše,  
+zvaného Mauglí)_**
 
 Po celý život  
 srdce naše bloudí.  

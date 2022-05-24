@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: FANTÓMY
+contentType: poetry
 ---
 
-# FANTÓMY
+

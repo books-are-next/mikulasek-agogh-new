@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Dusno
+contentType: poetry
 ---
-
-## Dusno
 
 A tenkrát se to stalo…
 

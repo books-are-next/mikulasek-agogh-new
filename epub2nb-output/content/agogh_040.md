@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Samovznícení
+contentType: poetry
 ---
-
-## Samovznícení
 
 Ticho jako po chorálu o mši  
 spí o polednách v tůni.  

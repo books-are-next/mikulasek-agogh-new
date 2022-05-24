@@ -1,14 +1,17 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Agogh",
       "identifier": "a280d15f-5a94-4ee4-87d8-6cad295549a2",
       "author": "Oldřich Mikulášek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-10-22T00:00:00.000Z"
+      "modified": "2020-10-22T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "contentType": "poetry"
     },
     "elements": {
-      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola\nmlpuroven1cast\nmlpuroven1zvlastnipripady\nmlpuroven2basne \nmlpuroven2basne1 ",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis",
       "h3": "",
@@ -17,64 +20,69 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nmlptextbez1radku \nmlptextbez1radku1 \nmlptextbez1radku2 ",
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "verse": "MLP-verse\nMLP-verse.+",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nmlpznakkurziva11b\nmlpversei\nmlpversei-b\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nmlpdopispodpisi",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf\nmlpverseb \nmlpverseb1 \nmlpversei-b\nmlptirazautoranazev",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "verse": "MLP-verse\nMLP-verse.+"
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "agogh_001.md",
             "xhtml": "agogh_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_002.md",
             "xhtml": "agogh_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_003.md",
             "xhtml": "agogh_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_004.md",
             "xhtml": "agogh_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_005.md",
@@ -85,7 +93,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_006.md",
@@ -96,7 +105,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_007.md",
@@ -107,7 +117,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_008.md",
@@ -118,7 +129,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_009.md",
@@ -129,7 +141,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_010.md",
@@ -140,7 +153,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_011.md",
@@ -151,7 +165,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_012.md",
@@ -162,7 +177,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_013.md",
@@ -173,7 +189,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_014.md",
@@ -184,7 +201,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_015.md",
@@ -195,7 +213,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_016.md",
@@ -206,7 +225,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_017.md",
@@ -217,7 +237,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_018.md",
@@ -228,7 +249,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_019.md",
@@ -239,7 +261,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_020.md",
@@ -250,7 +273,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_021.md",
@@ -261,7 +285,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_022.md",
@@ -272,7 +297,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_023.md",
@@ -283,7 +309,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_024.md",
@@ -294,7 +321,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_025.md",
@@ -305,7 +333,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_026.md",
@@ -316,7 +345,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_027.md",
@@ -327,7 +357,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_028.md",
@@ -338,7 +369,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_029.md",
@@ -349,7 +381,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_030.md",
@@ -360,7 +393,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_031.md",
@@ -371,7 +405,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_032.md",
@@ -382,7 +417,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_033.md",
@@ -393,7 +429,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_034.md",
@@ -404,7 +441,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_035.md",
@@ -415,7 +453,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_036.md",
@@ -426,7 +465,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_037.md",
@@ -437,7 +477,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_038.md",
@@ -448,7 +489,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_039.md",
@@ -459,7 +501,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_040.md",
@@ -470,7 +513,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_041.md",
@@ -481,7 +525,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_042.md",
@@ -492,7 +537,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_043.md",
@@ -503,7 +549,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_044.md",
@@ -514,18 +561,20 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "agogh_045.md",
             "xhtml": "agogh_045.html",
             "id": 44,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -571,235 +620,235 @@
         "xhtml": "agogh_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "METAFORY",
         "subtitleSuggest": "",
         "filename": "agogh_006.md",
         "xhtml": "agogh_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora první",
         "subtitleSuggest": "",
         "filename": "agogh_007.md",
         "xhtml": "agogh_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora druhá",
         "subtitleSuggest": "",
         "filename": "agogh_008.md",
         "xhtml": "agogh_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora třetí",
         "subtitleSuggest": "",
         "filename": "agogh_009.md",
         "xhtml": "agogh_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora čtvrtá",
         "subtitleSuggest": "",
         "filename": "agogh_010.md",
         "xhtml": "agogh_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora pátá",
         "subtitleSuggest": "",
         "filename": "agogh_011.md",
         "xhtml": "agogh_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora šestá",
         "subtitleSuggest": "",
         "filename": "agogh_012.md",
         "xhtml": "agogh_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora sedmá",
         "subtitleSuggest": "",
         "filename": "agogh_013.md",
         "xhtml": "agogh_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "NEKROLOGY",
         "subtitleSuggest": "",
         "filename": "agogh_014.md",
         "xhtml": "agogh_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Noční květiny",
         "subtitleSuggest": "",
         "filename": "agogh_015.md",
         "xhtml": "agogh_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace pro hornu a trubku",
         "subtitleSuggest": "",
         "filename": "agogh_016.md",
         "xhtml": "agogh_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ptáci",
         "subtitleSuggest": "",
         "filename": "agogh_017.md",
         "xhtml": "agogh_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nedokončená",
         "subtitleSuggest": "",
         "filename": "agogh_018.md",
         "xhtml": "agogh_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "FANTÓMY",
         "subtitleSuggest": "",
         "filename": "agogh_019.md",
         "xhtml": "agogh_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Plátky",
         "subtitleSuggest": "",
         "filename": "agogh_020.md",
         "xhtml": "agogh_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čistá práce",
         "subtitleSuggest": "",
         "filename": "agogh_021.md",
         "xhtml": "agogh_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Obřad",
         "subtitleSuggest": "",
         "filename": "agogh_022.md",
         "xhtml": "agogh_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dusno",
         "subtitleSuggest": "",
         "filename": "agogh_023.md",
         "xhtml": "agogh_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Scéna",
         "subtitleSuggest": "",
         "filename": "agogh_024.md",
         "xhtml": "agogh_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Uhlem",
         "subtitleSuggest": "",
         "filename": "agogh_025.md",
         "xhtml": "agogh_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "MEANDRY",
         "subtitleSuggest": "",
         "filename": "agogh_026.md",
         "xhtml": "agogh_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pleonasmy",
         "subtitleSuggest": "",
         "filename": "agogh_027.md",
         "xhtml": "agogh_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Instrumentace",
         "subtitleSuggest": "",
         "filename": "agogh_028.md",
         "xhtml": "agogh_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Návody",
         "subtitleSuggest": "",
         "filename": "agogh_029.md",
         "xhtml": "agogh_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zázraky",
         "subtitleSuggest": "",
         "filename": "agogh_030.md",
         "xhtml": "agogh_030.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ostych",
         "subtitleSuggest": "",
         "filename": "agogh_031.md",
         "xhtml": "agogh_031.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čas vína",
         "subtitleSuggest": "",
         "filename": "agogh_032.md",
         "xhtml": "agogh_032.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Chutnání",
         "subtitleSuggest": "",
         "filename": "agogh_033.md",
         "xhtml": "agogh_033.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Volným pádem",
         "subtitleSuggest": "",
         "filename": "agogh_034.md",
         "xhtml": "agogh_034.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Křehké věci",
         "subtitleSuggest": "",
         "filename": "agogh_035.md",
         "xhtml": "agogh_035.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nahota",
         "subtitleSuggest": "",
         "filename": "agogh_036.md",
         "xhtml": "agogh_036.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Fantastický déšť",
         "subtitleSuggest": "",
         "filename": "agogh_037.md",
         "xhtml": "agogh_037.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jen tak sobě pro radost",
         "subtitleSuggest": "",
         "filename": "agogh_038.md",
         "xhtml": "agogh_038.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Divoké víno",
         "subtitleSuggest": "",
         "filename": "agogh_039.md",
         "xhtml": "agogh_039.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Samovznícení",
         "subtitleSuggest": "",
         "filename": "agogh_040.md",
         "xhtml": "agogh_040.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ženy na podzim",
         "subtitleSuggest": "",
         "filename": "agogh_041.md",
         "xhtml": "agogh_041.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Co říká malíř",
         "subtitleSuggest": "",
         "filename": "agogh_042.md",
         "xhtml": "agogh_042.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zděšený láskou",
         "subtitleSuggest": "",
         "filename": "agogh_043.md",
         "xhtml": "agogh_043.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "agogh_044.md",
         "xhtml": "agogh_044.html"
@@ -894,6 +943,6 @@
       "user": "books-are-next",
       "repo": "mikulasek-agogh-new"
     },
-    "generatedAt": 1653372463330
+    "generatedAt": 1653373360265
   }
 }

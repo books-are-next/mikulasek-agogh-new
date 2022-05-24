@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Křehké věci
+contentType: poetry
 ---
-
-## Křehké věci
 
 Pramínkem tenkým crčí víno.  
 Nejtišším hláskem zpívá pták.  

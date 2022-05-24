@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Obřad
+contentType: poetry
 ---
-
-## Obřad
 
 Rožnu jednu svíčku.
 

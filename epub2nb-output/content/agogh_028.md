@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Instrumentace
+contentType: poetry
 ---
-
-## Instrumentace
 
 Flétna — tvá štíhlost  
 i úzkost tvá.  

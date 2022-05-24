@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Čistá práce
+contentType: poetry
 ---
 
-## Čistá práce
-
-(Fantómy)
+**(Fantómy)**
 
 V té noci kouzel tyrkysové  
 dám trysknout lahvi z bláznivé své hlavy  

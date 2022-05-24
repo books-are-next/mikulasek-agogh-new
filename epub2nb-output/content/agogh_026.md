@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: MEANDRY
+contentType: poetry
 ---
 
-# MEANDRY
+

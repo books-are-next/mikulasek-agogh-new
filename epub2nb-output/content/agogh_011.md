@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Metafora pátá
+contentType: poetry
 ---
 
-## Metafora pátá
-
-(Snědený hlad)
+**(Snědený hlad)**
 
 Uhodila hodina džinu  
 a já ho zřím,  

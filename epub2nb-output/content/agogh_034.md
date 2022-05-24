@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Volným pádem
+contentType: poetry
 ---
-
-## Volným pádem
 
 Jak vzácné, křehké nádoby  
 neseme k ústům svoje hlavy.  

@@ -1,0 +1,906 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Agogh",
+  "author": "Oldřich Mikulášek",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "mikulasek-agogh-dd6fa78",
+  "revision": "dd6fa78",
+  "readingOrder": [
+    "promo.html",
+    "agogh_005.html",
+    "agogh_006.html",
+    "agogh_007.html",
+    "agogh_008.html",
+    "agogh_009.html",
+    "agogh_010.html",
+    "agogh_011.html",
+    "agogh_012.html",
+    "agogh_013.html",
+    "agogh_014.html",
+    "agogh_015.html",
+    "agogh_016.html",
+    "agogh_017.html",
+    "agogh_018.html",
+    "agogh_019.html",
+    "agogh_020.html",
+    "agogh_021.html",
+    "agogh_022.html",
+    "agogh_023.html",
+    "agogh_024.html",
+    "agogh_025.html",
+    "agogh_026.html",
+    "agogh_027.html",
+    "agogh_028.html",
+    "agogh_029.html",
+    "agogh_030.html",
+    "agogh_031.html",
+    "agogh_032.html",
+    "agogh_033.html",
+    "agogh_034.html",
+    "agogh_035.html",
+    "agogh_036.html",
+    "agogh_037.html",
+    "agogh_038.html",
+    "agogh_039.html",
+    "agogh_040.html",
+    "agogh_041.html",
+    "agogh_042.html",
+    "agogh_043.html",
+    "agogh_044.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Tue May 24 2022 06:23:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1653373415546
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "agogh_005.html",
+      "toc": []
+    },
+    {
+      "title": "Agogh",
+      "file": "agogh_005.html",
+      "words": 23,
+      "chars": 123,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "agogh_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "METAFORY",
+      "file": "agogh_006.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "agogh_005.html",
+      "next": "agogh_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "METAFORY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Metafora první",
+      "file": "agogh_007.html",
+      "words": 111,
+      "chars": 545,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 3,
+      "prev": "agogh_006.html",
+      "next": "agogh_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Metafora první",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Metafora druhá",
+      "file": "agogh_008.html",
+      "words": 347,
+      "chars": 1921,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 4,
+      "prev": "agogh_007.html",
+      "next": "agogh_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Metafora druhá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Metafora třetí",
+      "file": "agogh_009.html",
+      "words": 219,
+      "chars": 1168,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 5,
+      "prev": "agogh_008.html",
+      "next": "agogh_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Metafora třetí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Metafora čtvrtá",
+      "file": "agogh_010.html",
+      "words": 342,
+      "chars": 1760,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 6,
+      "prev": "agogh_009.html",
+      "next": "agogh_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Metafora čtvrtá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Metafora pátá",
+      "file": "agogh_011.html",
+      "words": 323,
+      "chars": 1662,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 7,
+      "prev": "agogh_010.html",
+      "next": "agogh_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Metafora pátá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Metafora šestá",
+      "file": "agogh_012.html",
+      "words": 157,
+      "chars": 828,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 8,
+      "prev": "agogh_011.html",
+      "next": "agogh_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Metafora šestá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Metafora sedmá",
+      "file": "agogh_013.html",
+      "words": 1381,
+      "chars": 7825,
+      "ideas": 267,
+      "role": "chapter",
+      "order": 9,
+      "prev": "agogh_012.html",
+      "next": "agogh_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Metafora sedmá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "NEKROLOGY",
+      "file": "agogh_014.html",
+      "words": 1,
+      "chars": 9,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 10,
+      "prev": "agogh_013.html",
+      "next": "agogh_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "NEKROLOGY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noční květiny",
+      "file": "agogh_015.html",
+      "words": 160,
+      "chars": 830,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 11,
+      "prev": "agogh_014.html",
+      "next": "agogh_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Noční květiny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Variace pro hornu a trubku",
+      "file": "agogh_016.html",
+      "words": 291,
+      "chars": 1324,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 12,
+      "prev": "agogh_015.html",
+      "next": "agogh_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Variace pro hornu a trubku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ptáci",
+      "file": "agogh_017.html",
+      "words": 106,
+      "chars": 599,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 13,
+      "prev": "agogh_016.html",
+      "next": "agogh_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ptáci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nedokončená",
+      "file": "agogh_018.html",
+      "words": 128,
+      "chars": 690,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 14,
+      "prev": "agogh_017.html",
+      "next": "agogh_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nedokončená",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "FANTÓMY",
+      "file": "agogh_019.html",
+      "words": 1,
+      "chars": 7,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 15,
+      "prev": "agogh_018.html",
+      "next": "agogh_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "FANTÓMY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plátky",
+      "file": "agogh_020.html",
+      "words": 404,
+      "chars": 2015,
+      "ideas": 84,
+      "role": "chapter",
+      "order": 16,
+      "prev": "agogh_019.html",
+      "next": "agogh_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Plátky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čistá práce",
+      "file": "agogh_021.html",
+      "words": 150,
+      "chars": 755,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 17,
+      "prev": "agogh_020.html",
+      "next": "agogh_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čistá práce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obřad",
+      "file": "agogh_022.html",
+      "words": 60,
+      "chars": 304,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 18,
+      "prev": "agogh_021.html",
+      "next": "agogh_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obřad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dusno",
+      "file": "agogh_023.html",
+      "words": 134,
+      "chars": 684,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 19,
+      "prev": "agogh_022.html",
+      "next": "agogh_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dusno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Scéna",
+      "file": "agogh_024.html",
+      "words": 71,
+      "chars": 339,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 20,
+      "prev": "agogh_023.html",
+      "next": "agogh_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Scéna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Uhlem",
+      "file": "agogh_025.html",
+      "words": 64,
+      "chars": 358,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 21,
+      "prev": "agogh_024.html",
+      "next": "agogh_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Uhlem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MEANDRY",
+      "file": "agogh_026.html",
+      "words": 1,
+      "chars": 7,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 22,
+      "prev": "agogh_025.html",
+      "next": "agogh_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MEANDRY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pleonasmy",
+      "file": "agogh_027.html",
+      "words": 251,
+      "chars": 1408,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 23,
+      "prev": "agogh_026.html",
+      "next": "agogh_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pleonasmy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Instrumentace",
+      "file": "agogh_028.html",
+      "words": 96,
+      "chars": 469,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 24,
+      "prev": "agogh_027.html",
+      "next": "agogh_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Instrumentace",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návody",
+      "file": "agogh_029.html",
+      "words": 136,
+      "chars": 717,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 25,
+      "prev": "agogh_028.html",
+      "next": "agogh_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Návody",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zázraky",
+      "file": "agogh_030.html",
+      "words": 88,
+      "chars": 446,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 26,
+      "prev": "agogh_029.html",
+      "next": "agogh_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zázraky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostych",
+      "file": "agogh_031.html",
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 27,
+      "prev": "agogh_030.html",
+      "next": "agogh_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostych",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čas vína",
+      "file": "agogh_032.html",
+      "words": 112,
+      "chars": 612,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 28,
+      "prev": "agogh_031.html",
+      "next": "agogh_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čas vína",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chutnání",
+      "file": "agogh_033.html",
+      "words": 94,
+      "chars": 496,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 29,
+      "prev": "agogh_032.html",
+      "next": "agogh_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chutnání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Volným pádem",
+      "file": "agogh_034.html",
+      "words": 128,
+      "chars": 637,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 30,
+      "prev": "agogh_033.html",
+      "next": "agogh_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Volným pádem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Křehké věci",
+      "file": "agogh_035.html",
+      "words": 62,
+      "chars": 337,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 31,
+      "prev": "agogh_034.html",
+      "next": "agogh_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Křehké věci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nahota",
+      "file": "agogh_036.html",
+      "words": 81,
+      "chars": 389,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 32,
+      "prev": "agogh_035.html",
+      "next": "agogh_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nahota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Fantastický déšť",
+      "file": "agogh_037.html",
+      "words": 204,
+      "chars": 963,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 33,
+      "prev": "agogh_036.html",
+      "next": "agogh_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Fantastický déšť",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jen tak sobě pro radost",
+      "file": "agogh_038.html",
+      "words": 111,
+      "chars": 542,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 34,
+      "prev": "agogh_037.html",
+      "next": "agogh_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jen tak sobě pro radost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Divoké víno",
+      "file": "agogh_039.html",
+      "words": 122,
+      "chars": 621,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 35,
+      "prev": "agogh_038.html",
+      "next": "agogh_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Divoké víno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Samovznícení",
+      "file": "agogh_040.html",
+      "words": 1,
+      "chars": 12,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 36,
+      "prev": "agogh_039.html",
+      "next": "agogh_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Samovznícení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ženy na podzim",
+      "file": "agogh_041.html",
+      "words": 239,
+      "chars": 1329,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 37,
+      "prev": "agogh_040.html",
+      "next": "agogh_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ženy na podzim",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co říká malíř",
+      "file": "agogh_042.html",
+      "words": 147,
+      "chars": 720,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 38,
+      "prev": "agogh_041.html",
+      "next": "agogh_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co říká malíř",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zděšený láskou",
+      "file": "agogh_043.html",
+      "words": 65,
+      "chars": 354,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 39,
+      "prev": "agogh_042.html",
+      "next": "agogh_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zděšený láskou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "agogh_044.html",
+      "words": 45,
+      "chars": 296,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 40,
+      "prev": "agogh_043.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 118,
+      "chars": 772,
+      "ideas": 15,
+      "role": "colophon",
+      "order": null,
+      "prev": "agogh_044.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 6580,
+      "chars": 34912,
+      "ideas": 1373
+    },
+    "chapters": {
+      "words": 6458,
+      "chars": 34115,
+      "ideas": 1355
+    }
+  }
+}

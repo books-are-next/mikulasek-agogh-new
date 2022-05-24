@@ -2,19 +2,18 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Agogh
   identifier: a280d15f-5a94-4ee4-87d8-6cad295549a2
   author: Oldřich Mikulášek
   publisher: Městská knihovna v Praze
   modified: '2020-10-22T00:00:00.000Z'
+  publisherShort: mkp
+  contentType: poetry
 readingOrder:
   - promo.html
-  - agogh_001.html
-  - agogh_002.html
-  - agogh_003.html
-  - agogh_004.html
   - agogh_005.html
   - agogh_006.html
   - agogh_007.html
@@ -55,11 +54,12 @@ readingOrder:
   - agogh_042.html
   - agogh_043.html
   - agogh_044.html
-  - agogh_045.html
+  - colophon.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

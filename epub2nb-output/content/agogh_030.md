@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Zázraky
+contentType: poetry
 ---
-
-## Zázraky
 
 Když bleskne zmije zelení,  
 skrývám ji dlouho ve svém zraku  

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Variace pro hornu a\_trubku"
+contentType: poetry
 ---
 
-## Variace pro hornu a trubku
-
-(Památce přátel Rudolfa Kitlera a Aloise Špačka)
+**_(Památce přátel Rudolfa Kitlera a Aloise Špačka)_**
 
 A na co je to lov,  
 či na koho,  

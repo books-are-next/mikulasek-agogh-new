@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Uhlem
+contentType: poetry
 ---
 
-## Uhlem
-
-(Náčrt k portrétu)
+**(Náčrt k portrétu)**
 
 Rovná a bledá jako svíce,  
 kterou kdosi zhasil  

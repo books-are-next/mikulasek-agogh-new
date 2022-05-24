@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Metafora čtvrtá
+contentType: poetry
 ---
 
-## Metafora čtvrtá
-
-(Agogh)
+**(Agogh)**
 
 Jakýsi motor nabírá zlostně dech  
 a chrčí.  

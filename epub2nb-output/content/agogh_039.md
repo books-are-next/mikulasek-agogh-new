@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Divoké víno
+contentType: poetry
 ---
-
-## Divoké víno
 
 Když začne chřadnout bříza  
 před mým oknem  

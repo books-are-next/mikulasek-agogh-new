@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Plátky
+contentType: poetry
 ---
 
-## Plátky
-
-(Monolog pro ženský hlas)
+**(Monolog pro ženský hlas)**
 
 — Už spíš?  
 — — —  

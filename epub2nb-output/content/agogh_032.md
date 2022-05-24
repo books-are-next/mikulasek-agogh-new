@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Čas vína
+contentType: poetry
 ---
 
-## Čas vína
-
-Jaroslavu Seifertovi
+_Jaroslavu Seifertovi_
 
 Stále nás něco zanechává stesku.  
 Kam letíte, husy? Kam, naše léta lichá?  

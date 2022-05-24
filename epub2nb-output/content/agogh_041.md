@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Ženy na podzim
+contentType: poetry
 ---
-
-## Ženy na podzim
 
 Už je podzim, auta se vracejí do měst  
 poseta spadlým listím  

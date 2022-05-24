@@ -1,8 +1,9 @@
 ---
-contentType: prose
+title: ''
+contentType: poetry
 ---
 
-MOTTO:
+_MOTTO:_
 
 Možná to ví jen křehoučký ptáček  
 ve večerním křoví,  

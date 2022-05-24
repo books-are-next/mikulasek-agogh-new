@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Scéna
+contentType: poetry
 ---
-
-## Scéna
 
 Nebe nezáří. Hvězdy nesvítí.  
 Je noc.  

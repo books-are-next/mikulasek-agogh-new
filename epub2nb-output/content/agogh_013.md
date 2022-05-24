@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Metafora sedmá
+contentType: poetry
 ---
 
-## Metafora sedmá
-
-(Trůnní řeč Agogha krále, lítosti krále a smutku)
+**_(Trůnní řeč Agogha krále, lítosti krále a smutku)_**
 
 V některých krajinách ještě  
 zešikma píše déšť  

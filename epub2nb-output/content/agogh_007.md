@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Metafora první
+contentType: poetry
 ---
 
-## Metafora první
-
-(O metafoře)
+**_(O metafoře)_**
 
 Její krok — jak náčrt nártu…
 
