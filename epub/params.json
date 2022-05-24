@@ -106,91 +106,100 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_007.md",
-            "xhtml": "agogh_007.html",
-            "id": 6,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_008.md",
-            "xhtml": "agogh_008.html",
-            "id": 7,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_009.md",
-            "xhtml": "agogh_009.html",
-            "id": 8,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_010.md",
-            "xhtml": "agogh_010.html",
-            "id": 9,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_011.md",
-            "xhtml": "agogh_011.html",
-            "id": 10,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_012.md",
-            "xhtml": "agogh_012.html",
-            "id": 11,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_013.md",
-            "xhtml": "agogh_013.html",
-            "id": 12,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "agogh_007.md",
+                "xhtml": "agogh_007.html",
+                "id": 6,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Metafora první"
+              },
+              {
+                "filename": "agogh_008.md",
+                "xhtml": "agogh_008.html",
+                "id": 7,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Metafora druhá"
+              },
+              {
+                "filename": "agogh_009.md",
+                "xhtml": "agogh_009.html",
+                "id": 8,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Metafora třetí"
+              },
+              {
+                "filename": "agogh_010.md",
+                "xhtml": "agogh_010.html",
+                "id": 9,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Metafora čtvrtá"
+              },
+              {
+                "filename": "agogh_011.md",
+                "xhtml": "agogh_011.html",
+                "id": 10,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Metafora pátá"
+              },
+              {
+                "filename": "agogh_012.md",
+                "xhtml": "agogh_012.html",
+                "id": 11,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Metafora šestá"
+              },
+              {
+                "filename": "agogh_013.md",
+                "xhtml": "agogh_013.html",
+                "id": 12,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Metafora sedmá"
+              }
+            ],
+            "title": "METAFORY"
           },
           {
             "filename": "agogh_014.md",
@@ -202,55 +211,61 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_015.md",
-            "xhtml": "agogh_015.html",
-            "id": 14,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_016.md",
-            "xhtml": "agogh_016.html",
-            "id": 15,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_017.md",
-            "xhtml": "agogh_017.html",
-            "id": 16,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_018.md",
-            "xhtml": "agogh_018.html",
-            "id": 17,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "agogh_015.md",
+                "xhtml": "agogh_015.html",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Noční květiny"
+              },
+              {
+                "filename": "agogh_016.md",
+                "xhtml": "agogh_016.html",
+                "id": 15,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Variace pro hornu a trubku"
+              },
+              {
+                "filename": "agogh_017.md",
+                "xhtml": "agogh_017.html",
+                "id": 16,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Ptáci"
+              },
+              {
+                "filename": "agogh_018.md",
+                "xhtml": "agogh_018.html",
+                "id": 17,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Nedokončená"
+              }
+            ],
+            "title": "NEKROLOGY"
           },
           {
             "filename": "agogh_019.md",
@@ -262,79 +277,87 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_020.md",
-            "xhtml": "agogh_020.html",
-            "id": 19,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_021.md",
-            "xhtml": "agogh_021.html",
-            "id": 20,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_022.md",
-            "xhtml": "agogh_022.html",
-            "id": 21,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_023.md",
-            "xhtml": "agogh_023.html",
-            "id": 22,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_024.md",
-            "xhtml": "agogh_024.html",
-            "id": 23,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_025.md",
-            "xhtml": "agogh_025.html",
-            "id": 24,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "agogh_020.md",
+                "xhtml": "agogh_020.html",
+                "id": 19,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Plátky"
+              },
+              {
+                "filename": "agogh_021.md",
+                "xhtml": "agogh_021.html",
+                "id": 20,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Čistá práce"
+              },
+              {
+                "filename": "agogh_022.md",
+                "xhtml": "agogh_022.html",
+                "id": 21,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Obřad"
+              },
+              {
+                "filename": "agogh_023.md",
+                "xhtml": "agogh_023.html",
+                "id": 22,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Dusno"
+              },
+              {
+                "filename": "agogh_024.md",
+                "xhtml": "agogh_024.html",
+                "id": 23,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Scéna"
+              },
+              {
+                "filename": "agogh_025.md",
+                "xhtml": "agogh_025.html",
+                "id": 24,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Uhlem"
+              }
+            ],
+            "title": "FANTÓMY"
           },
           {
             "filename": "agogh_026.md",
@@ -346,211 +369,230 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_027.md",
-            "xhtml": "agogh_027.html",
-            "id": 26,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_028.md",
-            "xhtml": "agogh_028.html",
-            "id": 27,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_029.md",
-            "xhtml": "agogh_029.html",
-            "id": 28,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_030.md",
-            "xhtml": "agogh_030.html",
-            "id": 29,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_031.md",
-            "xhtml": "agogh_031.html",
-            "id": 30,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_032.md",
-            "xhtml": "agogh_032.html",
-            "id": 31,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_033.md",
-            "xhtml": "agogh_033.html",
-            "id": 32,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_034.md",
-            "xhtml": "agogh_034.html",
-            "id": 33,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_035.md",
-            "xhtml": "agogh_035.html",
-            "id": 34,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_036.md",
-            "xhtml": "agogh_036.html",
-            "id": 35,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_037.md",
-            "xhtml": "agogh_037.html",
-            "id": 36,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_038.md",
-            "xhtml": "agogh_038.html",
-            "id": 37,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_039.md",
-            "xhtml": "agogh_039.html",
-            "id": 38,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_040.md",
-            "xhtml": "agogh_040.html",
-            "id": 39,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_041.md",
-            "xhtml": "agogh_041.html",
-            "id": 40,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_042.md",
-            "xhtml": "agogh_042.html",
-            "id": 41,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "agogh_043.md",
-            "xhtml": "agogh_043.html",
-            "id": 42,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "agogh_027.md",
+                "xhtml": "agogh_027.html",
+                "id": 26,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Pleonasmy"
+              },
+              {
+                "filename": "agogh_028.md",
+                "xhtml": "agogh_028.html",
+                "id": 27,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Instrumentace"
+              },
+              {
+                "filename": "agogh_029.md",
+                "xhtml": "agogh_029.html",
+                "id": 28,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Návody"
+              },
+              {
+                "filename": "agogh_030.md",
+                "xhtml": "agogh_030.html",
+                "id": 29,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zázraky"
+              },
+              {
+                "filename": "agogh_031.md",
+                "xhtml": "agogh_031.html",
+                "id": 30,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Ostych"
+              },
+              {
+                "filename": "agogh_032.md",
+                "xhtml": "agogh_032.html",
+                "id": 31,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Čas vína"
+              },
+              {
+                "filename": "agogh_033.md",
+                "xhtml": "agogh_033.html",
+                "id": 32,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Chutnání"
+              },
+              {
+                "filename": "agogh_034.md",
+                "xhtml": "agogh_034.html",
+                "id": 33,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Volným pádem"
+              },
+              {
+                "filename": "agogh_035.md",
+                "xhtml": "agogh_035.html",
+                "id": 34,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Křehké věci"
+              },
+              {
+                "filename": "agogh_036.md",
+                "xhtml": "agogh_036.html",
+                "id": 35,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Nahota"
+              },
+              {
+                "filename": "agogh_037.md",
+                "xhtml": "agogh_037.html",
+                "id": 36,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Fantastický déšť"
+              },
+              {
+                "filename": "agogh_038.md",
+                "xhtml": "agogh_038.html",
+                "id": 37,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Jen tak sobě pro radost"
+              },
+              {
+                "filename": "agogh_039.md",
+                "xhtml": "agogh_039.html",
+                "id": 38,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Divoké víno"
+              },
+              {
+                "filename": "agogh_040.md",
+                "xhtml": "agogh_040.html",
+                "id": 39,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Samovznícení"
+              },
+              {
+                "filename": "agogh_041.md",
+                "xhtml": "agogh_041.html",
+                "id": 40,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Ženy na podzim"
+              },
+              {
+                "filename": "agogh_042.md",
+                "xhtml": "agogh_042.html",
+                "id": 41,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Co říká malíř"
+              },
+              {
+                "filename": "agogh_043.md",
+                "xhtml": "agogh_043.html",
+                "id": 42,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zděšený láskou"
+              }
+            ],
+            "title": "MEANDRY"
           },
           {
             "filename": "agogh_044.md",
@@ -562,7 +604,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "agogh_045.md",
@@ -621,235 +664,235 @@
         "xhtml": "agogh_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "METAFORY",
         "subtitleSuggest": "",
         "filename": "agogh_006.md",
         "xhtml": "agogh_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora první",
         "subtitleSuggest": "",
         "filename": "agogh_007.md",
         "xhtml": "agogh_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora druhá",
         "subtitleSuggest": "",
         "filename": "agogh_008.md",
         "xhtml": "agogh_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora třetí",
         "subtitleSuggest": "",
         "filename": "agogh_009.md",
         "xhtml": "agogh_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora čtvrtá",
         "subtitleSuggest": "",
         "filename": "agogh_010.md",
         "xhtml": "agogh_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora pátá",
         "subtitleSuggest": "",
         "filename": "agogh_011.md",
         "xhtml": "agogh_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora šestá",
         "subtitleSuggest": "",
         "filename": "agogh_012.md",
         "xhtml": "agogh_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafora sedmá",
         "subtitleSuggest": "",
         "filename": "agogh_013.md",
         "xhtml": "agogh_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "NEKROLOGY",
         "subtitleSuggest": "",
         "filename": "agogh_014.md",
         "xhtml": "agogh_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Noční květiny",
         "subtitleSuggest": "",
         "filename": "agogh_015.md",
         "xhtml": "agogh_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Variace pro hornu a trubku",
         "subtitleSuggest": "",
         "filename": "agogh_016.md",
         "xhtml": "agogh_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ptáci",
         "subtitleSuggest": "",
         "filename": "agogh_017.md",
         "xhtml": "agogh_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nedokončená",
         "subtitleSuggest": "",
         "filename": "agogh_018.md",
         "xhtml": "agogh_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "FANTÓMY",
         "subtitleSuggest": "",
         "filename": "agogh_019.md",
         "xhtml": "agogh_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Plátky",
         "subtitleSuggest": "",
         "filename": "agogh_020.md",
         "xhtml": "agogh_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čistá práce",
         "subtitleSuggest": "",
         "filename": "agogh_021.md",
         "xhtml": "agogh_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Obřad",
         "subtitleSuggest": "",
         "filename": "agogh_022.md",
         "xhtml": "agogh_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dusno",
         "subtitleSuggest": "",
         "filename": "agogh_023.md",
         "xhtml": "agogh_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Scéna",
         "subtitleSuggest": "",
         "filename": "agogh_024.md",
         "xhtml": "agogh_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Uhlem",
         "subtitleSuggest": "",
         "filename": "agogh_025.md",
         "xhtml": "agogh_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "MEANDRY",
         "subtitleSuggest": "",
         "filename": "agogh_026.md",
         "xhtml": "agogh_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pleonasmy",
         "subtitleSuggest": "",
         "filename": "agogh_027.md",
         "xhtml": "agogh_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Instrumentace",
         "subtitleSuggest": "",
         "filename": "agogh_028.md",
         "xhtml": "agogh_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Návody",
         "subtitleSuggest": "",
         "filename": "agogh_029.md",
         "xhtml": "agogh_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zázraky",
         "subtitleSuggest": "",
         "filename": "agogh_030.md",
         "xhtml": "agogh_030.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ostych",
         "subtitleSuggest": "",
         "filename": "agogh_031.md",
         "xhtml": "agogh_031.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čas vína",
         "subtitleSuggest": "",
         "filename": "agogh_032.md",
         "xhtml": "agogh_032.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Chutnání",
         "subtitleSuggest": "",
         "filename": "agogh_033.md",
         "xhtml": "agogh_033.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Volným pádem",
         "subtitleSuggest": "",
         "filename": "agogh_034.md",
         "xhtml": "agogh_034.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Křehké věci",
         "subtitleSuggest": "",
         "filename": "agogh_035.md",
         "xhtml": "agogh_035.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nahota",
         "subtitleSuggest": "",
         "filename": "agogh_036.md",
         "xhtml": "agogh_036.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Fantastický déšť",
         "subtitleSuggest": "",
         "filename": "agogh_037.md",
         "xhtml": "agogh_037.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jen tak sobě pro radost",
         "subtitleSuggest": "",
         "filename": "agogh_038.md",
         "xhtml": "agogh_038.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Divoké víno",
         "subtitleSuggest": "",
         "filename": "agogh_039.md",
         "xhtml": "agogh_039.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Samovznícení",
         "subtitleSuggest": "",
         "filename": "agogh_040.md",
         "xhtml": "agogh_040.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ženy na podzim",
         "subtitleSuggest": "",
         "filename": "agogh_041.md",
         "xhtml": "agogh_041.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Co říká malíř",
         "subtitleSuggest": "",
         "filename": "agogh_042.md",
         "xhtml": "agogh_042.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zděšený láskou",
         "subtitleSuggest": "",
         "filename": "agogh_043.md",
         "xhtml": "agogh_043.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "agogh_044.md",
         "xhtml": "agogh_044.html"
@@ -944,6 +987,6 @@
       "user": "books-are-next",
       "repo": "mikulasek-agogh-new"
     },
-    "generatedAt": 1653372463330
+    "generatedAt": 1653373360265
   }
 }
