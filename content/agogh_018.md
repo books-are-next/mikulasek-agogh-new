@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Nedokončená
+contentType: poetry
 ---
 
-## Nedokončená
-
-(Památce této básně)
+**_(Památce této básně)_**
 
 Tu truchlou píseň nedokončím.  
 Ta píseň nikdy neskončí se.  

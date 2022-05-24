@@ -1,5 +1,6 @@
 ---
-contentType: prose
+title: NEKROLOGY
+contentType: poetry
 ---
 
-# NEKROLOGY
+

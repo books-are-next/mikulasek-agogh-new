@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Metafora třetí
+contentType: poetry
 ---
 
-## Metafora třetí
-
-(Křik)
+**(Křik)**
 
 Jsou bytosti tak útlé,  
 že mohou žít  

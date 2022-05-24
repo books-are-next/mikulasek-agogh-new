@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Metafora šestá
+contentType: poetry
 ---
 
-## Metafora šestá
-
-(Linda)
+**(Linda)**
 
 (A TO JE JMÉNO DÍVKY TÉ,  
 ZAKLETÉ V TOPOLU BÍLÉM)

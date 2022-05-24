@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Ptáci
+contentType: poetry
 ---
 
-## Ptáci
-
-(Památce Mariny Cvětajevové)
+**_(Památce Mariny Cvětajevové)_**
 
 Co přikrývají křídly ptáci?  
 Co přikrývají peřím svým?  

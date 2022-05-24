@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Co říká malíř
+contentType: poetry
 ---
 
-## Co říká malíř
-
-Jaroslavu Dvořáčkovi
+_Jaroslavu Dvořáčkovi_
 
 Nevidíte-li na obloze  
 obrazu mého letícího ptáka,  

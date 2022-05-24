@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Chutnání
+contentType: poetry
 ---
-
-## Chutnání
 
 Marně mé patro pátrá po chuti  
 onoho vína.  

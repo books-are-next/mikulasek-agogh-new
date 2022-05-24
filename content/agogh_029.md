@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Návody
+contentType: poetry
 ---
-
-## Návody
 
 Nedívej se na mě,  
 aby nikdo neviděl,  

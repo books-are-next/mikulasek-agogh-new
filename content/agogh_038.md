@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Jen tak sobě pro radost
+contentType: poetry
 ---
-
-## Jen tak sobě pro radost
 
 Jak čistý, operační řez  
 lesem a vzduchem a duší —  

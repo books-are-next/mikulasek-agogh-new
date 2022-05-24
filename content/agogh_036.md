@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Nahota
+contentType: poetry
 ---
-
-## Nahota
 
 Stvořím si tě k tvé podobě  
 i k obrazu svému. A ještě —  

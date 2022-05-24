@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Ostych
+contentType: poetry
 ---
-
-## Ostych
 
 Málem jsem se tě dotýkal  
 tam, kde se klene tvůj dech,  

@@ -1,8 +1,7 @@
 ---
-contentType: prose
+title: Zděšený láskou
+contentType: poetry
 ---
-
-## Zděšený láskou
 
 Zmatený láskou, cítím  
 od tebe závan chladu.

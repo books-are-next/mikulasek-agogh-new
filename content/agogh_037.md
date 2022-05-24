@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Fantastický déšť
+contentType: poetry
 ---
 
-## Fantastický déšť
-
-Vladimíru Justlovi
+_Vladimíru Justlovi_
 
 Prší tak, že v uších prší.  
 Prší tak, že v stromech šustí  

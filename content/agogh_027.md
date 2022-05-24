@@ -1,12 +1,11 @@
 ---
-contentType: prose
+title: Pleonasmy
+contentType: poetry
 ---
 
-## Pleonasmy
+**(Něco málo o pomeranči)**
 
-(Něco málo o pomeranči)
-
-Věře
+_Věře_
 
 Když je život kolem drsný  
 a slyšet samé chraplavé proroky  

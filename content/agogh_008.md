@@ -1,12 +1,11 @@
 ---
-contentType: prose
+title: Metafora druhá
+contentType: poetry
 ---
 
-## Metafora druhá
+**(Tichá panika)**
 
-(Tichá panika)
-
-Vladimíru Holanovi
+_Vladimíru Holanovi_
 
 Stačilo odvalit kámen,  
 tu zdánlivou kryptu —  
