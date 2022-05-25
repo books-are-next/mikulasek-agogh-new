@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mikulasek-agogh-ed16cc5",
-  "revision": "ed16cc5",
+  "identifier": "mikulasek-agogh-c002527",
+  "revision": "c002527",
   "readingOrder": [
     "promo.html",
     "agogh_005.html",
@@ -54,8 +54,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Tue May 24 2022 06:50:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1653375059500
+    "date": "Wed May 25 2022 05:19:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1653455981918
   },
   "documents": [
     {
