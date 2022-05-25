@@ -1,0 +1,392 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Agogh",
+    "identifier": "a280d15f-5a94-4ee4-87d8-6cad295549a2",
+    "author": "Oldřich Mikulášek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2020-10-21T22:00:00.000Z",
+    "published": "2020-10-21T22:00:00.000Z",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_035.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_036.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_037.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_038.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_039.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_040.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_041.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_042.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_043.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_044.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/agogh_045.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "METAFORY",
+      "children": [
+        {
+          "title": "Metafora první",
+          "href": "OEBPS/Text/agogh_007.html"
+        },
+        {
+          "title": "Metafora druhá",
+          "href": "OEBPS/Text/agogh_008.html"
+        },
+        {
+          "title": "Metafora třetí",
+          "href": "OEBPS/Text/agogh_009.html"
+        },
+        {
+          "title": "Metafora čtvrtá",
+          "href": "OEBPS/Text/agogh_010.html"
+        },
+        {
+          "title": "Metafora pátá",
+          "href": "OEBPS/Text/agogh_011.html"
+        },
+        {
+          "title": "Metafora šestá",
+          "href": "OEBPS/Text/agogh_012.html"
+        },
+        {
+          "title": "Metafora sedmá",
+          "href": "OEBPS/Text/agogh_013.html"
+        }
+      ],
+      "href": "OEBPS/Text/agogh_006.html"
+    },
+    {
+      "title": "NEKROLOGY",
+      "children": [
+        {
+          "title": "Noční květiny",
+          "href": "OEBPS/Text/agogh_015.html"
+        },
+        {
+          "title": "Variace pro hornu a trubku",
+          "href": "OEBPS/Text/agogh_016.html"
+        },
+        {
+          "title": "Ptáci",
+          "href": "OEBPS/Text/agogh_017.html"
+        },
+        {
+          "title": "Nedokončená",
+          "href": "OEBPS/Text/agogh_018.html"
+        }
+      ],
+      "href": "OEBPS/Text/agogh_014.html"
+    },
+    {
+      "title": "FANTÓMY",
+      "children": [
+        {
+          "title": "Plátky",
+          "href": "OEBPS/Text/agogh_020.html"
+        },
+        {
+          "title": "Čistá práce",
+          "href": "OEBPS/Text/agogh_021.html"
+        },
+        {
+          "title": "Obřad",
+          "href": "OEBPS/Text/agogh_022.html"
+        },
+        {
+          "title": "Dusno",
+          "href": "OEBPS/Text/agogh_023.html"
+        },
+        {
+          "title": "Scéna",
+          "href": "OEBPS/Text/agogh_024.html"
+        },
+        {
+          "title": "Uhlem",
+          "href": "OEBPS/Text/agogh_025.html"
+        }
+      ],
+      "href": "OEBPS/Text/agogh_019.html"
+    },
+    {
+      "title": "MEANDRY",
+      "children": [
+        {
+          "title": "Pleonasmy",
+          "href": "OEBPS/Text/agogh_027.html"
+        },
+        {
+          "title": "Instrumentace",
+          "href": "OEBPS/Text/agogh_028.html"
+        },
+        {
+          "title": "Návody",
+          "href": "OEBPS/Text/agogh_029.html"
+        },
+        {
+          "title": "Zázraky",
+          "href": "OEBPS/Text/agogh_030.html"
+        },
+        {
+          "title": "Ostych",
+          "href": "OEBPS/Text/agogh_031.html"
+        },
+        {
+          "title": "Čas vína",
+          "href": "OEBPS/Text/agogh_032.html"
+        },
+        {
+          "title": "Chutnání",
+          "href": "OEBPS/Text/agogh_033.html"
+        },
+        {
+          "title": "Volným pádem",
+          "href": "OEBPS/Text/agogh_034.html"
+        },
+        {
+          "title": "Křehké věci",
+          "href": "OEBPS/Text/agogh_035.html"
+        },
+        {
+          "title": "Nahota",
+          "href": "OEBPS/Text/agogh_036.html"
+        },
+        {
+          "title": "Fantastický déšť",
+          "href": "OEBPS/Text/agogh_037.html"
+        },
+        {
+          "title": "Jen tak sobě pro radost",
+          "href": "OEBPS/Text/agogh_038.html"
+        },
+        {
+          "title": "Divoké víno",
+          "href": "OEBPS/Text/agogh_039.html"
+        },
+        {
+          "title": "Samovznícení",
+          "href": "OEBPS/Text/agogh_040.html"
+        },
+        {
+          "title": "Ženy na podzim",
+          "href": "OEBPS/Text/agogh_041.html"
+        },
+        {
+          "title": "Co říká malíř",
+          "href": "OEBPS/Text/agogh_042.html"
+        },
+        {
+          "title": "Zděšený láskou",
+          "href": "OEBPS/Text/agogh_043.html"
+        }
+      ],
+      "href": "OEBPS/Text/agogh_026.html"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/agogh_044.html"
+    }
+  ]
+}

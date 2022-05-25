@@ -621,8 +621,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -630,7 +629,7 @@
       "identifier": "a280d15f-5a94-4ee4-87d8-6cad295549a2",
       "author": "Oldřich Mikulášek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-10-22T00:00:00.000Z"
+      "modified": "2020-10-21T22:00:00.000Z"
     },
     "chapters": [
       {
@@ -983,10 +982,7 @@
       "wordsection8",
       "wordsection9"
     ],
-    "github": {
-      "user": "books-are-next",
-      "repo": "mikulasek-agogh-new"
-    },
-    "generatedAt": 1653373360265
+    "github": null,
+    "generatedAt": 1653403387838
   }
 }

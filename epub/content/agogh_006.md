@@ -1,0 +1,6 @@
+---
+title: METAFORY
+contentType: poetry
+---
+
+
