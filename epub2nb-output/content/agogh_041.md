@@ -3,6 +3,8 @@ title: Ženy na podzim
 contentType: poetry
 ---
 
+<section>
+
 Už je podzim, auta se vracejí do měst  
 poseta spadlým listím  
 a na oněch místech jsou, jak známo,  
@@ -52,3 +54,5 @@ ve zraku ještě prchavější dálku,
 dálku stromu, který najednou vidí i za sebe  
 tisícerýma očima listí,  
 odcházejícího kamsi spát…
+
+</section>

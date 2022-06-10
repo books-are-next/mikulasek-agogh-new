@@ -3,6 +3,8 @@ title: Jen tak sobě pro radost
 contentType: poetry
 ---
 
+<section>
+
 Jak čistý, operační řez  
 lesem a vzduchem a duší —  
 je září.
@@ -31,3 +33,5 @@ ten starý orientálec,
 jako by na smrt blízkou zapomněl,  
 obléká si zvláště smaragdový —  
 chalát.
+
+</section>

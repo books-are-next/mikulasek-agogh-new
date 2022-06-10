@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mikulasek-agogh-b03ba52",
-  "revision": "b03ba52",
+  "identifier": "mikulasek-agogh-6393772",
+  "revision": "6393772",
   "readingOrder": [
     "promo.html",
     "agogh_005.html",
@@ -54,8 +54,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:20:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870845512
+    "date": "Fri Jun 10 2022 17:52:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883574580
   },
   "documents": [
     {
@@ -593,9 +593,9 @@
     {
       "title": "Ostych",
       "file": "agogh_031.html",
-      "words": 1,
-      "chars": 6,
-      "ideas": 1,
+      "words": 143,
+      "chars": 762,
+      "ideas": 28,
       "role": "chapter",
       "order": 27,
       "prev": "agogh_030.html",
@@ -773,9 +773,9 @@
     {
       "title": "Samovznícení",
       "file": "agogh_040.html",
-      "words": 1,
-      "chars": 12,
-      "ideas": 1,
+      "words": 142,
+      "chars": 725,
+      "ideas": 27,
       "role": "chapter",
       "order": 36,
       "prev": "agogh_039.html",
@@ -873,9 +873,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 118,
-      "chars": 772,
-      "ideas": 15,
+      "words": 53,
+      "chars": 383,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "agogh_044.html",
@@ -893,14 +893,14 @@
   ],
   "totals": {
     "all": {
-      "words": 6580,
-      "chars": 34912,
-      "ideas": 1373
+      "words": 6798,
+      "chars": 35992,
+      "ideas": 1416
     },
     "chapters": {
-      "words": 6458,
-      "chars": 34115,
-      "ideas": 1355
+      "words": 6741,
+      "chars": 35584,
+      "ideas": 1408
     }
   }
 }

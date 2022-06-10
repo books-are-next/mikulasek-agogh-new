@@ -3,6 +3,8 @@ title: Samovznícení
 contentType: poetry
 ---
 
+<section>
+
 Ticho jako po chorálu o mši  
 spí o polednách v tůni.  
 A jak své boky ryby obrací  
@@ -29,3 +31,5 @@ jak v lese strom, strom ve svém lese
 a jenom les, les nepohne se,  
 na chvilku všemi stromy šťastný  
 v svém nevymytitelném stesku.
+
+</section>

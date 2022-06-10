@@ -3,6 +3,8 @@ title: Čistá práce
 contentType: poetry
 ---
 
+<section>
+
 **(Fantómy)**
 
 V té noci kouzel tyrkysové  
@@ -36,3 +38,5 @@ ten první, okraj číše zlézá,
 tak čirý ve své existenci —
 
 jak z viny bytí by se svlék…
+
+</section>

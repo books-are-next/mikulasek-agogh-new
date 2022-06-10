@@ -3,6 +3,8 @@ title: Metafora sedmá
 contentType: poetry
 ---
 
+<section>
+
 **_(Trůnní řeč Agogha krále, lítosti krále a smutku)_**
 
 V některých krajinách ještě  
@@ -280,3 +282,5 @@ A zhasla mi lampa.
 NO — A CO?  
 UŽ LEPŠÍ LIDÉ BYLI V KONCÍCH  
 A JÁ JSEM NA SAMÉM PRAHU!
+
+</section>

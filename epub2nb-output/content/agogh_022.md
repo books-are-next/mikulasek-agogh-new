@@ -3,6 +3,8 @@ title: Obřad
 contentType: poetry
 ---
 
+<section>
+
 Rožnu jednu svíčku.
 
 Rožnu druhou svíčku.
@@ -25,3 +27,5 @@ rád utáhnu si smyčku.
 
 Kdo rožne třetí svíčku,  
 prosím vás?
+
+</section>

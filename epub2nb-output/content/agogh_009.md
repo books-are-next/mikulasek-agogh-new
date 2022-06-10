@@ -3,6 +3,8 @@ title: Metafora třetí
 contentType: poetry
 ---
 
+<section>
+
 **(Křik)**
 
 Jsou bytosti tak útlé,  
@@ -62,3 +64,5 @@ což málokdo ví, a i já sotva
 v tom příliš hlasitém světě  
 stále rozbíjených transfuzních lahví —  
 a suchých facek.
+
+</section>

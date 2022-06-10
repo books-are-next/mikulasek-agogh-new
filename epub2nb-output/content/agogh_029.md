@@ -3,6 +3,8 @@ title: Návody
 contentType: poetry
 ---
 
+<section>
+
 Nedívej se na mě,  
 aby nikdo neviděl,  
 jak nám oči plavou v oleji…
@@ -36,3 +38,5 @@ v té otlučené tváři ze země egyptské
 mě pohřbi,  
 aby nikdo nevěděl,  
 až budou všichni vědět…
+
+</section>

@@ -3,6 +3,8 @@ title: Čas vína
 contentType: poetry
 ---
 
+<section>
+
 _Jaroslavu Seifertovi_
 
 Stále nás něco zanechává stesku.  
@@ -28,3 +30,5 @@ A ani kapička se marně neztrácí.
 Tak všichni nakonec  
 ze srdce svého jenom upíjíme —  
 a stále tišší a tesknější je loutna.
+
+</section>

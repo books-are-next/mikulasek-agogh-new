@@ -3,6 +3,8 @@ title: Nahota
 contentType: poetry
 ---
 
+<section>
+
 Stvořím si tě k tvé podobě  
 i k obrazu svému. A ještě —  
 a potom ještě pro potlesk  
@@ -19,3 +21,5 @@ které jak vína si nahnu,
 ach, vína z těch černých moruší.  
 Pak žízní po tobě zprahnu.  
 Jak naposled. Jak po prve.
+
+</section>

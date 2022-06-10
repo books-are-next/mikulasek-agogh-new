@@ -3,6 +3,8 @@ title: Zázraky
 contentType: poetry
 ---
 
+<section>
+
 Když bleskne zmije zelení,  
 skrývám ji dlouho ve svém zraku  
 — v tom vnitřním —  
@@ -22,3 +24,5 @@ rosničky v čirém prameni.
 A k tomu křišťál třpytné vody,  
 tak po tvém srdci studánkový,  
 že i já ve svém — zjitřním.
+
+</section>

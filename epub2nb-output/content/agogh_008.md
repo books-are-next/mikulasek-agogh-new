@@ -3,6 +3,8 @@ title: Metafora druhá
 contentType: poetry
 ---
 
+<section>
+
 **(Tichá panika)**
 
 _Vladimíru Holanovi_
@@ -90,3 +92,5 @@ dost namočený ve všech potopách,
 ale stále a do nekonečna mumlající,  
 že koneckonců  
 se chtěl jenom potkat…
+
+</section>

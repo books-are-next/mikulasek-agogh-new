@@ -3,6 +3,8 @@ title: "Variace pro hornu a\_trubku"
 contentType: poetry
 ---
 
+<section>
+
 **_(Památce přátel Rudolfa Kitlera a Aloise Špačka)_**
 
 A na co je to lov,  
@@ -72,3 +74,5 @@ než pocítí své jho,
 jho vydechnuvšího  
 a v jeho bledosti  
 teď náhle nahý nach…
+
+</section>
