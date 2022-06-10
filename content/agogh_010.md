@@ -3,6 +3,8 @@ title: Metafora čtvrtá
 contentType: poetry
 ---
 
+<section>
+
 **(Agogh)**
 
 Jakýsi motor nabírá zlostně dech  
@@ -81,3 +83,5 @@ andělem černým na tragický svůj trůn…
 
 Jen jak by vinen byl  
 svět celý — bez viny.
+
+</section>

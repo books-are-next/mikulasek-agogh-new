@@ -3,6 +3,8 @@ title: Divoké víno
 contentType: poetry
 ---
 
+<section>
+
 Když začne chřadnout bříza  
 před mým oknem  
 — jediné, nač mám se ještě dívat —  
@@ -31,3 +33,5 @@ v řidnoucím listí břízy začne zpívat.
 
 Však o čem, nikdo ani já  
 se nikdy nedoví.
+
+</section>

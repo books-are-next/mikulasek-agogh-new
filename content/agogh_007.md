@@ -3,6 +3,8 @@ title: Metafora první
 contentType: poetry
 ---
 
+<section>
+
 **_(O metafoře)_**
 
 Její krok — jak náčrt nártu…
@@ -30,3 +32,5 @@ a pokavad nevyschne mi,
 tonu v ní, v tom božském bludu,  
 sám její — po svém obezdění  
 slepě tápající tep.
+
+</section>

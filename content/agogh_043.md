@@ -3,6 +3,8 @@ title: Zděšený láskou
 contentType: poetry
 ---
 
+<section>
+
 Zmatený láskou, cítím  
 od tebe závan chladu.
 
@@ -22,3 +24,5 @@ A zřím tě v pustém sadu
 jak sebe sama opadánu —
 
 zděšený láskou…
+
+</section>

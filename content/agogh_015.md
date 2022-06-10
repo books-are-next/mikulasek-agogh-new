@@ -3,6 +3,8 @@ title: Noční květiny
 contentType: poetry
 ---
 
+<section>
+
 **_(Památce přítele Jaroslava Beneše,  
 zvaného Mauglí)_**
 
@@ -53,3 +55,5 @@ a schytávající pláč.
 
 A žije! Ještě žije —  
 kdo pláče.
+
+</section>

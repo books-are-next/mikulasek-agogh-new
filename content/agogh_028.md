@@ -3,6 +3,8 @@ title: Instrumentace
 contentType: poetry
 ---
 
+<section>
+
 Flétna — tvá štíhlost  
 i úzkost tvá.  
 Housle — tvé boky  
@@ -32,3 +34,5 @@ do koše s jablky tvými —
 ach, jaké to krásné neštěstí,  
 být sražen na kolena tvá,  
 má lásko!
+
+</section>

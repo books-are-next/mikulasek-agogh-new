@@ -3,6 +3,8 @@ title: Metafora šestá
 contentType: poetry
 ---
 
+<section>
+
 **(Linda)**
 
 (A TO JE JMÉNO DÍVKY TÉ,  
@@ -38,3 +40,5 @@ tu nejtesknější tesknotu
 s tesknější ještě přísti:  
 „Má Lindo, Lindo má, ach, Lindo…,  
 jen bůh ví, jak je sám.“
+
+</section>

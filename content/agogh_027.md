@@ -3,6 +3,8 @@ title: Pleonasmy
 contentType: poetry
 ---
 
+<section>
+
 **(Něco málo o pomeranči)**
 
 _Věře_
@@ -55,3 +57,5 @@ ale úplně pomerančově krásná),
 že si tě moje ústa mohou snadno,  
 tak snadno, ale úplně, načisto snadno  
 splést.
+
+</section>

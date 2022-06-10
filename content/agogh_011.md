@@ -3,6 +3,8 @@ title: Metafora pátá
 contentType: poetry
 ---
 
+<section>
+
 **(Snědený hlad)**
 
 Uhodila hodina džinu  
@@ -85,3 +87,5 @@ Tak požírá se noc —
 třetího pohlaví.
 
 A nerozednívá se!
+
+</section>

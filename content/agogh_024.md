@@ -3,6 +3,8 @@ title: Scéna
 contentType: poetry
 ---
 
+<section>
+
 Nebe nezáří. Hvězdy nesvítí.  
 Je noc.  
 Ne na nebi. Ne na zemi.  
@@ -22,3 +24,5 @@ proč ptám se bez přestání,
 když jsem chtěl k tobě přijít po kvítí.  
 Tak potichu. Tak tence.  
 Po každém stonku zvlášť.
+
+</section>

@@ -3,6 +3,8 @@ title: Křehké věci
 contentType: poetry
 ---
 
+<section>
+
 Pramínkem tenkým crčí víno.  
 Nejtišším hláskem zpívá pták.  
 Nevím, či je to něčí vinou,  
@@ -18,3 +20,5 @@ smlčíme jenom ptačí řečí,
 tou beze slov,  
 s níž chodí spát  
 nach v růži zas — už vyhaslou.
+
+</section>

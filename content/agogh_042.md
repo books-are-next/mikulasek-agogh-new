@@ -3,6 +3,8 @@ title: Co říká malíř
 contentType: poetry
 ---
 
+<section>
+
 _Jaroslavu Dvořáčkovi_
 
 Nevidíte-li na obloze  
@@ -35,3 +37,5 @@ jak čára přes cosi…
 
 Protože… protože i v rákosí  
 hnízdívají ptáci.
+
+</section>

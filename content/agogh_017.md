@@ -3,6 +3,8 @@ title: Ptáci
 contentType: poetry
 ---
 
+<section>
+
 **_(Památce Mariny Cvětajevové)_**
 
 Co přikrývají křídly ptáci?  
@@ -30,3 +32,5 @@ už nezahřejí peřím svým
 a pod křídly je pohřbívají.
 
 A zpěvem, zpěvem zabitým.
+
+</section>

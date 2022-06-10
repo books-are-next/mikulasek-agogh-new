@@ -3,6 +3,8 @@ title: Ostych
 contentType: poetry
 ---
 
+<section>
+
 Málem jsem se tě dotýkal  
 tam, kde se klene tvůj dech,  
 anebo spíš se jen snášel  
@@ -30,3 +32,5 @@ a nebo nejsoucí teprve tápe
 po vlastním hmatu  
 jako tvůj každý prs  
 po obou mých očích…
+
+</section>

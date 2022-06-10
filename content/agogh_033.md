@@ -3,6 +3,8 @@ title: Chutnání
 contentType: poetry
 ---
 
+<section>
+
 Marně mé patro pátrá po chuti  
 onoho vína.  
 Zdá se, že samo jako rybník  
@@ -24,3 +26,5 @@ v průsvitech lesklé šíje jasnozřivou —
 a já si šeptám sladké jméno:
 
 Zalabé, Zalabé…
+
+</section>
