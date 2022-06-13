@@ -2,7 +2,6 @@
 title: Tiráž
 ---
 
-<section>  
 **Oldřich Mikulášek    
 Agogh**  
 Edice Čeští básníci 20. století  
@@ -10,8 +9,11 @@ Redakce Markéta Teuchnerová
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 1. elektronické vydání  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla [Agogh](https://search.mlp.cz/cz/titul/agogh/27175/) tak, jak bylo vydáno nakladatelstvím Československý spisovatel v Praze v roce 1989. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***
 
