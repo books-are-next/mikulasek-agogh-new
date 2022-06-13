@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mikulasek-agogh-68b5008",
-  "revision": "68b5008",
+  "identifier": "mikulasek-agogh-5309b9d",
+  "revision": "5309b9d",
   "readingOrder": [
     "promo.html",
     "agogh_005.html",
@@ -54,8 +54,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:06:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949205348
+    "date": "Mon Jun 13 2022 21:56:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157374266
   },
   "documents": [
     {
@@ -873,9 +873,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 53,
-      "chars": 383,
-      "ideas": 5,
+      "words": 118,
+      "chars": 772,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "agogh_044.html",
@@ -893,9 +893,9 @@
   ],
   "totals": {
     "all": {
-      "words": 6798,
-      "chars": 35992,
-      "ideas": 1416
+      "words": 6863,
+      "chars": 36381,
+      "ideas": 1426
     },
     "chapters": {
       "words": 6741,
