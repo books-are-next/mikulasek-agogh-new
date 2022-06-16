@@ -12,6 +12,7 @@ meta:
   modified: '2020-10-22T00:00:00.000Z'
   publisherShort: mkp
   contentType: poetry
+  edition: poezie
 readingOrder:
   - promo.html
   - agogh_005.html

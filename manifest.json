@@ -5,10 +5,11 @@
   "title": "Agogh",
   "author": "Oldřich Mikulášek",
   "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mikulasek-agogh-c727347",
-  "revision": "c727347",
+  "identifier": "mikulasek-agogh-74ac87e",
+  "revision": "74ac87e",
   "readingOrder": [
     "promo.html",
     "agogh_005.html",
@@ -54,8 +55,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:53:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272402583
+    "date": "Thu Jun 16 2022 07:31:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364696151
   },
   "documents": [
     {
@@ -893,9 +894,9 @@
   ],
   "totals": {
     "all": {
-      "words": 6877,
-      "chars": 36488,
-      "ideas": 1426
+      "words": 6878,
+      "chars": 36494,
+      "ideas": 1427
     },
     "chapters": {
       "words": 6741,
