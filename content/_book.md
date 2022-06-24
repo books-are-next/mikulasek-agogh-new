@@ -59,6 +59,9 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
+      - link: agogh_005.html
+        title: Motto
+        hiddenTitle: true
       - link: agogh_006.html
         title: METAFORY
         hiddenTitle: false
