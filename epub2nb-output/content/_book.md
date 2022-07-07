@@ -55,7 +55,7 @@ readingOrder:
   - agogh_042.html
   - agogh_043.html
   - agogh_044.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

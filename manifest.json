@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mikulasek-agogh-0f9d46e",
-  "revision": "0f9d46e",
+  "identifier": "mikulasek-agogh-7bf3920",
+  "revision": "7bf3920",
   "readingOrder": [
     "promo.html",
     "agogh_005.html",
@@ -52,11 +52,11 @@
     "agogh_042.html",
     "agogh_043.html",
     "agogh_044.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 24 2022 13:56:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656078971852
+    "date": "Thu Jul 07 2022 08:34:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182847130
   },
   "documents": [
     {
@@ -805,7 +805,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ženy na podzim",
+          "name": "Ženy na podzim",
           "id": null,
           "children": []
         }
@@ -860,7 +860,7 @@
       "role": "chapter",
       "order": 40,
       "prev": "agogh_043.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -873,11 +873,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 132,
-      "chars": 879,
+      "chars": 878,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "agogh_044.html",
       "next": null,
@@ -894,9 +894,9 @@
   ],
   "totals": {
     "all": {
-      "words": 6878,
-      "chars": 36494,
-      "ideas": 1427
+      "words": 6996,
+      "chars": 37265,
+      "ideas": 1442
     },
     "chapters": {
       "words": 6741,
