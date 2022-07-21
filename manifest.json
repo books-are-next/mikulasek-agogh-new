@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mikulasek-agogh-a8f0819",
-  "revision": "a8f0819",
+  "identifier": "mikulasek-agogh-b72bfd8",
+  "revision": "b72bfd8",
   "readingOrder": [
     "promo.html",
     "agogh_005.html",
@@ -55,8 +55,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:52:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187559205
+    "date": "Thu Jul 21 2022 14:45:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414708544
   },
   "documents": [
     {
@@ -875,7 +875,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 132,
-      "chars": 878,
+      "chars": 879,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -895,7 +895,7 @@
   "totals": {
     "all": {
       "words": 6996,
-      "chars": 37265,
+      "chars": 37266,
       "ideas": 1442
     },
     "chapters": {
