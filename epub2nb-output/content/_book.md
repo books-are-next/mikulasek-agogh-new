@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   contentType: poetry
   edition: poezie
+  isbn: 978-80-274-2844-1
 readingOrder:
   - promo.html
   - agogh_005.html
